@@ -31,8 +31,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-        [InlineKeyboardButton(text="• sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ •", url=f"https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC")],
-    
+        
+        ],
     ]
-    
     return buttons
