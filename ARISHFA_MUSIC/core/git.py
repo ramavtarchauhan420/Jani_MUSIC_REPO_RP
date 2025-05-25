@@ -35,9 +35,7 @@ def git():
         GIT_USERNAME = REPO_LINK.split("com/")[1].split("/")[0]
         TEMP_REPO = REPO_LINK.split("https://")[1]
         UPSTREAM_REPO = f"https://{GIT_USERNAME}:{config.GIT_TOKEN}@{TEMP_REPO}"
-    else:
-        UPSTREAM_REPO = config.UPSTREAM_REPO
-    try:
+  
         repo = Repo()
         LOGGER(__name__).info(f"Git Client Found [VPS DEPLOYER]")
     except GitCommandError:
