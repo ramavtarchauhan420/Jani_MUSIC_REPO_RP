@@ -29,7 +29,9 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
-        [InlineKeyboardButton(text="• sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ •", url=f"https://t.me/ll_ISTKHAR_BABY_lll")],
+        [
+            InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
+        [InlineKeyboardButton(text="• sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ •", url=f"https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC")],
     
     ]
     
