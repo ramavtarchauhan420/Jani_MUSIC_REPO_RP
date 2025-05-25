@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamARISHFA/ARISHFA_MUSICBot/stargazers"><img src="https://img.shields.io/github/stars/TeamARISHFA/ARISHFA_MUSICBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamARISHFA/ARISHFA_MUSICBot/network/members"> <img src="https://img.shields.io/github/forks/TeamARISHFA/ARISHFA_MUSICBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamARISHFA/ARISHFA_MUSICBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/TEAM-ISTKHAR/ARISHFA_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC/network/members"> <img src="https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="[https://github.com/TeamARISHFA/ARISHFA_MUSIC](https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC)/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/TeamARISHFA/ARISHFA_MUSICBot/commits/TeamARISHFA"> <img src="https://img.shields.io/github/last-commit/TeamARISHFA/ARISHFA_MUSICBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/istkharalam62/POISON-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/ARISHFA_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
